@@ -1,6 +1,7 @@
 # Interactive Devices
 
 **Natalie B. Abrams**
+
 Cornell Tech, Fall 2018
 
 ## Assignments 
