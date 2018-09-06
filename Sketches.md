@@ -8,3 +8,5 @@
 ![a relative link](./6.JPG)
 ![a relative link](./7.JPG)
 ![a relative link](./8.JPG)
+![a relative link](./9.JPG)
+![a relative link](./10.JPG)
