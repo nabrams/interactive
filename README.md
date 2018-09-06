@@ -9,4 +9,4 @@ Cornell Tech, Fall 2018
 2. [Lab 2](https://github.com/nabrams/IDD-Fa18-Lab2/blob/master/README.md)
 
 ## Lab Prep
-1. [Lab 2 Prep](https://github.com/nabrams/interactive/blob/master/Sketches.md)
+1. [Lab 2 Prep](https://github.com/nabrams/interactive/blob/master/prelab-assets/Sketches.md)
