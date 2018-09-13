@@ -18,16 +18,16 @@ Draw sketches with each of your ideas.
 
 ### Ideas 1-3:
 
-![a relative link](./1-3.jpeg)
+![a relative link](./1-3.png)
 
 ### Ideas 4-6:
 
-![a relative link](./4-6.jpeg)
+![a relative link](./4-6.png)
 
 ### Ideas 7-9:
 
-![a relative link](./7-9.jpeg)
+![a relative link](./7-9.png)
 
 ### Idea 10:
 
-![a relative link](./last1.jpeg)
+![a relative link](./last1.png)
