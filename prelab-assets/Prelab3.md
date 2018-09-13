@@ -2,7 +2,7 @@
 # Lab prep 3 
 ## by Natalie B. Abrams
 
-PRE-SOLDERING: To avoid the backup around the soldering irons this time in lab, solder connectors onto your LIS3DH accelerometer and your VCNL Proximity Sensor. (You don't need to solder the headers for A1, A2 or A3)
+### PRE-SOLDERING:
 
 ![a relative link](./IMG_0783.jpeg)
  
