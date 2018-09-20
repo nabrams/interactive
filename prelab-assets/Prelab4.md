@@ -8,8 +8,8 @@
 
 ### Sketches 5-7
 
-![a relative link](./prelab4-2.png)
+![a relative link](./prelab4-3.png)
 
 ### Sketches 8-10
 
-![a relative link](./prelab4-3.png)
+![a relative link](./prelab4-2.png)
