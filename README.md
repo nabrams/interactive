@@ -12,3 +12,4 @@ Cornell Tech, Fall 2018
 ## Lab Prep
 1. [Lab 2 Prep](https://github.com/nabrams/interactive/blob/master/prelab-assets/Prelab2.md)
 2. [Lab 3 Prep](https://github.com/nabrams/interactive/blob/master/prelab-assets/Prelab3.md)
+3. [Lab 4 Prep](https://github.com/nabrams/interactive/blob/master/prelab-assets/Prelab4.md)
