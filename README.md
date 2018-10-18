@@ -11,6 +11,7 @@ Cornell Tech, Fall 2018
 4. [Lab 4](https://github.com/nabrams/IDD-Fa18-Lab4/blob/master/README.md)
 5. [Lab 5](https://github.com/nabrams/IDD-Fa18-Lab5/blob/master/README.md)
 6. [Lab 6](https://github.com/nabrams/IDD-Fa18-Lab6/blob/master/README.md)
+7. [Lab 7](https://github.com/nabrams/IDD-Fa18-Lab7/blob/master/README.md)
 
 ## Lab Prep
 1. [Lab 2 Prep](https://github.com/nabrams/interactive/blob/master/prelab-assets/Prelab2.md)
