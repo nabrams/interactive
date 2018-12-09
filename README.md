@@ -21,4 +21,4 @@ Cornell Tech, Fall 2018
 
 ## Final Project
 
-1.[Final Project](https://github.com/nabrams/final-project/edit/master/README.md)
+1. [Final Project](https://github.com/nabrams/final-project/edit/master/README.md)
